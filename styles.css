@@ -1,5 +1,5 @@
 body {
-    font-family: Garamond;
+    font-family: Georgia;
     background-color: #ffffff;
     color: #111;
     max-width: 720px;
@@ -60,7 +60,7 @@ footer {
 }
 
 .nav-link {
-    font-family: Garamond;
+    font-family: Georgia;
     font-size: 0.95rem;
     color: #0000EE;
 }
